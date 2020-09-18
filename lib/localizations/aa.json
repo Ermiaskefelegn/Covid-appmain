@@ -1,0 +1,19 @@
+{
+    "home_page":"መነሻ ገጽ",
+    "faq":"ስለ በሽታው ጥያቄዎች",
+    "settings":"መፍቻዎች",
+    "help":"የአጠቃቀም መመርያ",
+    "about_us":"ስለ እኛ",
+    "dark_mode":"ጨለማ ሞድ",
+    "exit":"ወጣ",
+    "homepage_title":"ኮቪድ-19 አስታዋሽ",
+    "symptoms":"ኮቪድ-19 መለከቶች",
+    "facemask":"ትክክለኛ የፊት ጭምብል አጠቃቀም",
+    "prevention":"የመከላከያ መንገዶች",
+    "notification":"አስታዋሽ መልዕክት",
+    "interval":"የአስታዋሽ መልዕክት የቆይታ ጊዜን ሙላ",
+    "start_time":"መነሻ ሰዓት",
+    "end_time":"ማቆሚያ ሰዓት",
+    "show_repeate":"አስታዋሽ መልዕክት በዚህን ያህል ጊዜ ልዩነት አሳይ"
+
+}
